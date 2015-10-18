@@ -1,0 +1,9 @@
+# Site settings
+title: About Geyslan G. Bem
+tag_text: Geyslan G. Bem
+description: Here you will know more about Geyslan
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
