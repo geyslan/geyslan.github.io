@@ -6,4 +6,7 @@ description: Here you will know more about Geyslan
 # Build settings
 markdown: kramdown
 
+gems:
+  - jemoji
+
 exclude: ["README.md"]

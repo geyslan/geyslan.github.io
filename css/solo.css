@@ -14,6 +14,7 @@ html {
 body {
   margin: 2rem 0 5rem;
   color: #333;
+  text-align: justify;
 }
 
 @media (min-width: 30rem) {
@@ -114,7 +115,7 @@ hr {
 
 .container img {
   margin: 0 auto;
-  display: block;
+  //display: block;
 }
 
 table {
