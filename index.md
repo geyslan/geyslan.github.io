@@ -2,14 +2,14 @@
 layout: default
 ---
 
-So do you want to know more about me? I'm afraid you won't find much here. :grin:
+So do you want to know more about me? I'm afraid you won't find much here.
 
 However, whereas [someone](https://lkml.org/lkml/2000/8/25/132) once said **"Talk is cheap. Show me the code."** I'll get you right to the source.
 
 <div style="text-align: center;">
 <iframe src="https://ghbtns.com/github-btn.html?user=geyslan&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
 </div><br>
-Is it not enough? :confused: Ok, ok, so enjoy some of my told [adventures](http://hackingbits.github.io) messing with bits. :computer:
+Is it not enough? Ok, ok, so enjoy some of my told [adventures](http://hackingbits.github.io) messing with bits.
 
 ## Me unmasked
 
