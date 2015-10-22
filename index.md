@@ -9,7 +9,7 @@ However, whereas [someone](https://lkml.org/lkml/2000/8/25/132) once said **"Tal
 <div style="text-align: center;">
 <iframe src="https://ghbtns.com/github-btn.html?user=geyslan&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
 </div><br>
-Is it not enough? Ok, ok, so enjoy some of my told [adventures](http://hackingbits.github.io) messing with bits.
+Is it not enough? Ok, ok, so enjoy some of my told [adventures](http://hackingbits.github.io/authors/#geyslan) messing with bits.
 
 ## Me unmasked
 
@@ -19,7 +19,7 @@ He also has some confusing words in [Hacking bits](http://hackingbits.github.io)
 
 <div style="text-align: center;">
 <iframe src="https://ghbtns.com/github-btn.html?user=hackingbits&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
-</div><br>
+</div>
 
 [Twitter](http://twitter.com/geyslangb) /
 [GitHub](http://github.com/geyslan) / [LinkedIn](http://linkedin.com/in/geyslan) / [CV](https://github.com/geyslan/cv/blob/master/geyslan_bem_en.pdf) / [Email](mailto:geyslan@gmail.com)
