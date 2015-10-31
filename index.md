@@ -19,10 +19,10 @@ He also has some confusing words in [Hacking bits](http://hackingbits.github.io)
 
 <div style="text-align: center;">
 <iframe src="https://ghbtns.com/github-btn.html?user=hackingbits&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
-</div>
+</div><br>
 
 [Twitter](http://twitter.com/geyslangb) /
-[GitHub](http://github.com/geyslan) / [LinkedIn](http://linkedin.com/in/geyslan) / [CV](https://github.com/geyslan/cv/blob/master/geyslan_bem_en.pdf) / [Email](mailto:geyslan@gmail.com)
+[GitHub](http://github.com/geyslan) / [LinkedIn](http://linkedin.com/in/geyslan) / [CV - PDF](https://github.com/geyslan/cv/blob/master/geyslan_bem_en.pdf) [CV - ASM](https://github.com/geyslan/cv/blob/master/geyslan_bem_en.asm) / [Email](mailto:geyslan@gmail.com)
 {: style="text-align: center;"}
 
 ![Geyslan G. Bem](https://secure.gravatar.com/avatar/31a28d86319a0a1aa5df4f07e54876d5.jpg?s=200)
