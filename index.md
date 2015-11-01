@@ -13,7 +13,7 @@ Is it not enough? Ok, ok, so enjoy some of my told [adventures](http://hackingbi
 
 ## Me unmasked
 
-Just a common guy who daily delivers bugs :bug: and still want to be paid :moneybag: for that.<br>
+Just an ordinary guy who frequently introduces bugs :bug: and still want to be paid :moneybag: for that. Just kidding, sometimes there are free bugs too.<br>
 
 He also has some confusing words in [Hacking bits](http://hackingbits.github.io) blog. Come help him heal his madness.
 
@@ -22,7 +22,7 @@ He also has some confusing words in [Hacking bits](http://hackingbits.github.io)
 </div><br>
 
 [Twitter](http://twitter.com/geyslangb) /
-[GitHub](http://github.com/geyslan) / [LinkedIn](http://linkedin.com/in/geyslan) / [CV - PDF](https://github.com/geyslan/cv/blob/master/geyslan_bem_en.pdf) [CV - ASM](https://github.com/geyslan/cv/blob/master/geyslan_bem_en.asm) / [Email](mailto:geyslan@gmail.com)
+[GitHub](http://github.com/geyslan) / [LinkedIn](http://linkedin.com/in/geyslan) / [CV - PDF](https://github.com/geyslan/cv/blob/master/geyslan_bem_en.pdf) / [CV - ASM](https://github.com/geyslan/cv/blob/master/geyslan_bem_en.asm) / [Email](mailto:geyslan@gmail.com)
 {: style="text-align: center;"}
 
 ![Geyslan G. Bem](https://secure.gravatar.com/avatar/31a28d86319a0a1aa5df4f07e54876d5.jpg?s=200)
