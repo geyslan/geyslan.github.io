@@ -11,7 +11,7 @@ However, whereas [someone](https://lkml.org/lkml/2000/8/25/132) once said **"Tal
 </div><br>
 Is it not enough? Ok, ok, so enjoy some of my told [adventures](http://hackingbits.github.io/authors/#geyslan) messing with bits.
 
-## Me unmasked
+## Unmasking myself
 
 Just an ordinary guy who frequently introduces bugs :bug: and still want to be paid :moneybag: for that. Just kidding, sometimes there are free bugs too.<br>
 
