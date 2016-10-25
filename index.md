@@ -21,6 +21,10 @@ He also has some confusing words in [Hacking bits](http://hackingbits.github.io)
 <iframe src="https://ghbtns.com/github-btn.html?user=hackingbits&type=follow&count=true&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
 </div><br>
 
+### True story (joking aside)
+
+He likes to optimize and debug code while he learns more about the hugeness of the computing field. Whereas in this case curiosity doesn't kill the cat.
+
 [Twitter](http://twitter.com/geyslangb) /
 [GitHub](http://github.com/geyslan) / [LinkedIn](http://linkedin.com/in/geyslan) / [CV - PDF](https://github.com/geyslan/cv/blob/master/geyslan_bem_en.pdf) / [CV - ASM](https://github.com/geyslan/cv/blob/master/geyslan_bem_en.asm) / [Email](mailto:geyslan@gmail.com)
 {: style="text-align: center;"}
