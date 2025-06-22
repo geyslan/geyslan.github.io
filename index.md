@@ -13,7 +13,7 @@ Is it not enough? Ok, ok, so enjoy some of my told [adventures](http://hackingbi
 
 ## Unmasking myself
 
-Just an ordinary guy who frequently introduces bugs :bug: and still want to be paid :moneybag: for that. Just kidding, sometimes there are free bugs too.<br>
+Just an ordinary guy who frequently introduces bugs 🐛 and still want to be paid 💰 for that. Just kidding, sometimes there are free bugs too.<br>
 
 He also has some confusing words in [Hacking bits](http://hackingbits.github.io) blog. Come help him heal his madness.
 
@@ -25,8 +25,7 @@ He also has some confusing words in [Hacking bits](http://hackingbits.github.io)
 
 He likes to optimize and debug code while he learns more about the hugeness of the computing field. Whereas in this case curiosity doesn't kill the cat.
 
-[Twitter](http://twitter.com/geyslangb) /
-[GitHub](http://github.com/geyslan) / [LinkedIn](http://linkedin.com/in/geyslan) / [CV - PDF](https://github.com/geyslan/cv/blob/master/geyslan_bem_en.pdf) / [CV - ASM](https://github.com/geyslan/cv/blob/master/geyslan_bem_en.asm) / [Email](mailto:geyslan@gmail.com)
+[GitHub](http://github.com/geyslan) / [LinkedIn](http://linkedin.com/in/geyslan) / [Email](mailto:gg@condado.dev)
 {: style="text-align: center;"}
 
 ![Geyslan G. Bem](https://secure.gravatar.com/avatar/31a28d86319a0a1aa5df4f07e54876d5.jpg?s=200)
