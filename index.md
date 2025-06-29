@@ -28,7 +28,7 @@ He likes to optimize and debug code while he learns more about the hugeness of t
 [GitHub](http://github.com/geyslan) / [LinkedIn](http://linkedin.com/in/geyslan) / [Email](mailto:gg@condado.dev)
 {: style="text-align: center;"}
 
-![Geyslan G. Bem](https://secure.gravatar.com/avatar/31a28d86319a0a1aa5df4f07e54876d5.jpg?s=200)
+![Geyslan Gregório](https://secure.gravatar.com/avatar/31a28d86319a0a1aa5df4f07e54876d5.jpg?s=200)
 {: style="text-align: center;"}
 
 <div style="text-align: center;">
