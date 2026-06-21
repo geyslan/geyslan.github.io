@@ -25,7 +25,7 @@ He also has some confusing words in [Hacking bits](http://hackingbits.github.io)
 
 He likes to optimize and debug code while he learns more about the hugeness of the computing field. Whereas in this case curiosity doesn't kill the cat.
 
-[GitHub](http://github.com/geyslan) / [LinkedIn](http://linkedin.com/in/geyslan) / [Email](mailto:gg@condado.dev)
+[GitHub](http://github.com/geyslan) / [LinkedIn](http://linkedin.com/in/geyslan) / [Email](mailto:gg@condado.dev) / [PGP keys](./pgp.html)
 {: style="text-align: center;"}
 
 ![Geyslan Gregório](https://secure.gravatar.com/avatar/31a28d86319a0a1aa5df4f07e54876d5.jpg?s=200)
