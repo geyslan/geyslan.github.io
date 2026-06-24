@@ -18,7 +18,14 @@ Public keys for verifying my signatures and sending me encrypted mail.
 
 ### geyslan.gregorio@aquasec.com - work (OSS signing)
 
-Fingerprint and download _pending_ - `aquasec.com` has no WKD yet.
+```
+ECFE CDE1 C10E 8DB2 DACF  8E86 D2E9 8A1A 63DB DDAB
+```
+
+- **Download + import:** [geyslan.gregorio.asc](https://openpgpkey.condado.dev/keys/aquasec.com/geyslan.gregorio.asc), then `gpg --import geyslan.gregorio.asc`
+- **Fetch from keyserver:** `gpg --keyserver keyserver.ubuntu.com --recv-keys ECFECDE1C10E8DB2DACF8E86D2E98A1A63DBDDAB`
+
+`aquasec.com` has no WKD, so this key lives in my key repo and on the keyserver instead.
 
 ---
 
